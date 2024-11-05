@@ -1,5 +1,5 @@
-org: geraldocolchado
-service: api-pelicula
+org: aldairss
+service: arn:aws:iam::044217340511:role/LabRole
 
 provider:
   name: aws
